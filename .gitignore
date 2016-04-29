@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+conf.php
+cache/twitter-array.txt
+*.txt
+error_log
